@@ -26,6 +26,6 @@ Which times, locations, and months have the highest concentration of bicycle acc
 ![Monthly Trends](images/monthly-trends.png)
 
 ## 📁 Files Included
-- `ALY6110_Bicycle_Accident_Dashboard_Pritesh.twbx`: Tableau dashboard file
+- `Bicycle_Accident_Analysis.twbx`: Tableau dashboard file
 - `images/`: Key screenshot images for preview
 - `README.md`: Project documentation
