@@ -17,7 +17,7 @@ Which times, locations, and months have the highest concentration of bicycle acc
 - Public dataset (Bicycle accidents data)
 
 ## 📎 Live Dashboard
-[👉 View on Tableau Public]([https://public.tableau.com/views/YOUR-DASHBOARD-LINK-HERE](https://public.tableau.com/app/profile/tanmay.patel7527/viz/Bicycle_Accident_Analysis/Bicycle_Accident_Dashboard?publish=yes)
+[👉 View on Tableau Public](https://public.tableau.com/app/profile/tanmay.patel7527/viz/Bicycle_Accident_Analysis/Bicycle_Accident_Dashboard?publish=yes)
 
 ## 📸 Dashboard Previews
 
